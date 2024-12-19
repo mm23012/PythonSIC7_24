@@ -33,6 +33,16 @@ https://www-triple--a-io.translate.goog/cryptocurrency-ownership-data?_x_tr_sl=e
 PIB per capita:
 https://datos.bancomundial.org/indicador/NY.GDP.PCAP.CD?locations=VC
 
+Valor de monedas:
+
+https://es.investing.com/currencies/usd-jpy-historical-data
+
+https://es.investing.com/currencies/cny-usd-historical-data
+
+https://es.investing.com/currencies/chf-usd-historical-data
+
+https://es.investing.com/currencies/eur-usd-historical-data
+
 
 - Limpieza de datos:
 
