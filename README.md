@@ -1,4 +1,4 @@
-# Análisis de Criptomonedas: Herramientas para la transparencia y la toma de decisiones
+# Criptomonedas: ¿Moneda de curso legal?
 
 El proyecto esta desarrollado en el lenguaje Python donde se realiza un analisis detallado sobre las criptomonedas, desde la visualización de precios a traves del tiempo 
 hasta una comparación entre estas mismas. Todo esto siendo accesible desde un menú interactivo.
@@ -12,7 +12,7 @@ hasta una comparación entre estas mismas. Todo esto siendo accesible desde un m
 4. [Proceso](#Proceso)
 5. [Funcionalidades](#Funcionalidades)
 
-* Análisis de Criptomonedas: Herramientas para la transparencia y la toma de decisiones
+* Criptomonedas: ¿Moneda de curso legal?
 
 * El proyecto esta desarrollado en el lenguaje Python donde se realiza un analisis detallado sobre las criptomonedas, desde la visualización de precios a traves del tiempo 
 hasta una comparación entre estas mismas. Todo esto siendo accesible desde un menú interactivo.
