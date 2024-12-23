@@ -27,6 +27,9 @@ hasta una comparación entre estas mismas. Todo esto siendo accesible desde un m
 
 - Fuente del dataset:
 
+Valor Criptomonedas: 
+https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrency-historical-prices-coingecko
+
 Adopcion de Criptomonedas:
 https://www-triple--a-io.translate.goog/cryptocurrency-ownership-data?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
 
